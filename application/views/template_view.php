@@ -19,7 +19,7 @@
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Pilih Kontak</h5>
+                    <h5 class="modal-title">Kontak Detail</h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                     </button>
@@ -40,8 +40,42 @@
                     <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
-                <div class="modal-body" id="modal-body-kontak">
-                    <p>Modal body text goes here.</p>
+                <div class="modal-body" id="modal-body-detail">
+                    <img src="https://randomuser.me/api/portraits/women/75.jpg" class="w-100">
+                    <h3>Sheila Perez</h3>
+                    <p></p>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>
+                                Lahir: Roberta Mckinney
+                            </p>
+                            <p>
+                                Jenis Kelamin: Men
+                            </p>
+                        </div>
+                    </div>
+                    <p></p>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>
+                                Surel: roberta.mckinney@example.com
+                            </p>
+                            <p>
+                                Telepon Seluler: (179)-236-4605
+                            </p>
+                        </div>
+                    </div>
+                    <p></p>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>
+                                Tempat Tinggal: Costa Mesa
+                            </p>
+                            <p>
+                                Koordinat: 28.3387, 29.0577
+                            </p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
